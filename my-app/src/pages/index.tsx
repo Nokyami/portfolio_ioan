@@ -24,7 +24,7 @@ export default function Home() {
                 Who am I?
               </Typography>
               <Typography variant="body1" color="text.primary" style={{ marginTop: '20px' }}>
-                My name is Yohann Vanden Eynde, born on 4 August 2024. I'm an industrial IT student fascinated by video games, programming, microcontrollers, etc. 
+                My name is Yohann Vanden Eynde, born on 4 August 2024. I&apos;m an industrial IT student fascinated by video games, programming, microcontrollers, etc. 
                 Although I&apos;m also very interested in technology in general, ideally I&apos;d like to work in automation. 
               </Typography>
             </CardContent>
