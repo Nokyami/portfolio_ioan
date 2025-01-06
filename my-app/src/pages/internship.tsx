@@ -20,7 +20,7 @@ export default function Internship() {
               TechnoCampus Mons
             </Typography>
             <Typography variant="body1" color="text.primary" style={{ marginTop: '20px' }}>
-              On February, I'll be doing a new placement for which I've already had an initial interview. I'm going into familiar territory, having already completed various training courses at TechnoCampus in Mons. My project will consist of replacing the operating screens on the PLCs in "Mini-usine 3" using Ignition SCADA software, with access via a mobile phone or tablet. I'm already very enthusiastic and looking forward to discover new technologies, learning how to use them and carrying out tests.
+              On February, I&apos;ll be doing a new placement for which I&apos;ve already had an initial interview. I&apos;m going into familiar territory, having already completed various training courses at TechnoCampus in Mons. My project will consist of replacing the operating screens on the PLCs in (Mini-usine 3) using Ignition SCADA software, with access via a mobile phone or tablet. I&apos;m already very enthusiastic and looking forward to discover new technologies, learning how to use them and carrying out tests.
             </Typography>
           </CardContent>
         </Card>

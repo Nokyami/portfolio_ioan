@@ -2,7 +2,6 @@ import Head from "next/head";
 import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import Typography from '@mui/material/Typography';
-import Box from '@mui/material/Box';
 import Container from '@mui/material/Container';
 
 export default function Projects() {
@@ -36,7 +35,7 @@ export default function Projects() {
               Finally, we wrote a report on the various stages. The project ended with an oral presentation and demonstration.
             </Typography>
             <Typography variant="body1" color="text.primary" style={{ marginTop: '20px' }}>
-              With this experience, I was confronted for the first time with real teamwork in which I easily found my place. Knowing how to carry out your own task while taking into account those of others with a common goal. Communication and team spirit are essential here, and I didn't have to try very hard.
+              With this experience, I was confronted for the first time with real teamwork in which I easily found my place. Knowing how to carry out your own task while taking into account those of others with a common goal. Communication and team spirit are essential here, and I didn&apos;t have to try very hard.
             </Typography>
           </CardContent>
         </Card>
@@ -58,7 +57,7 @@ export default function Projects() {
               Although based on similar foundations, this project proved to be more stressful for different reasons, in particular because of constraints directly linked to the project in question, such as the more limited time in the face of greater technological complexity or a presentation in English. But also having to take on this project mainly on my own took me out of my comfort zone, forcing me to operate autonomously and take responsibility.
             </Typography>
             <Typography variant="body1" color="text.primary" style={{ marginTop: '20px' }}>
-              Of course, I realised that my English wasn't up to scratch, but despite everything, I managed to adapt and deal with the stress so that I could finalise the project properly and realise that while the support of a team can be comfortable, working independently can save a project when the team is compromised. I find this personally rewarding.
+              Of course, I realised that my English wasn&apos;t up to scratch, but despite everything, I managed to adapt and deal with the stress so that I could finalise the project properly and realise that while the support of a team can be comfortable, working independently can save a project when the team is compromised. I find this personally rewarding.
             </Typography>
           </CardContent>
         </Card>
@@ -91,7 +90,7 @@ export default function Projects() {
               Then, everyone had to create an additional tool for this site. My part consisted of upgrading the programme to make it possible to acquire an industrial image and to obtain a technical description of it by the AI from the vector information extracted from the PDF.
             </Typography>
             <Typography variant="body1" color="text.primary" style={{ marginTop: '20px' }}>
-              This experience was personally enriching, although I had already carried out team projects, but this time I didn't have the assistance and advice of a teacher. I was aware of my responsibility for the cohesion of the group and the choices made. But instead of feeling stressed as soon as I understood the principle of new technologies, I felt reassured. The urgency of the situation didn't affect my confidence. On the contrary, it made me more efficient, in particular by choosing the fastest possible precedents with the same functionality to improve performance. I felt a great deal of pleasure, enthusiasm and satisfaction both during the creation of the project and in front of the jury during the presentation of the project for which we were awarded third place!
+              This experience was personally enriching, although I had already carried out team projects, but this time I didn&apos;t have the assistance and advice of a teacher. I was aware of my responsibility for the cohesion of the group and the choices made. But instead of feeling stressed as soon as I understood the principle of new technologies, I felt reassured. The urgency of the situation didn&apos;t affect my confidence. On the contrary, it made me more efficient, in particular by choosing the fastest possible precedents with the same functionality to improve performance. I felt a great deal of pleasure, enthusiasm and satisfaction both during the creation of the project and in front of the jury during the presentation of the project for which we were awarded third place!
             </Typography>
           </CardContent>
         </Card>
